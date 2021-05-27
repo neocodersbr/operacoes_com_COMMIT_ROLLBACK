@@ -1,0 +1,1 @@
+# operacoes_com_COMMIT_ROLLBACK
